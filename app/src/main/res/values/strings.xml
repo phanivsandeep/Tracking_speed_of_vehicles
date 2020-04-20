@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiniProjectTSOV</string>
+    <string name="checkpoint_1">Checkpoint 1</string>
+    <string name="checkpoint_2">Checkpoint 2</string>
+    <string name="capture">Capture</string>
+    <string name="check_for_overspeed">Check for Overspeed</string>
+</resources>
